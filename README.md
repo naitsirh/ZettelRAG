@@ -6,7 +6,8 @@ Sistema Retrieval-Augmented Generation (RAG) para consulta y organización de co
 Proyecto desarrollado como resolución del challenge final – Get Talent 2025 de Pi Data Strategy & Consulting.
 
 
-
+<br>
+<br>
 
 ## Objetivo:
 
@@ -20,7 +21,8 @@ Diseñar e implementar un sistema RAG completo que:
 - Expone el sistema vía API y UI gráfica
 
 
-
+<br>
+<br>
 
 ## Arquitectura general
 
@@ -51,7 +53,8 @@ flowchart TD
 ```
 
 
-
+<br>
+<br>
 
 ## Flujo del endpoint `/query`
 
@@ -83,7 +86,8 @@ sequenceDiagram
 ```
 
 
-
+<br>
+<br>
 
 ## Componentes principales
 
@@ -116,7 +120,8 @@ sequenceDiagram
 - Transparencia (grounded / fuentes)
 
 
-
+<br>
+<br>
 
 ## Tecnologías utilizadas
 
@@ -130,7 +135,8 @@ sequenceDiagram
 - Scikit-learn
 
 
-
+<br>
+<br>
 
 ## Configuración técnica
 
@@ -141,7 +147,8 @@ sequenceDiagram
 - Metadata: `source_file`
 
 
-
+<br>
+<br>
 
 ## Ejecución del proyecto:
 
@@ -198,7 +205,8 @@ http://127.0.0.1:7860
 ⚠️ Revisar las keys en `src/.env` 
 
 
-
+<br>
+<br>
 
 ## Estructura del proyecto:
 
