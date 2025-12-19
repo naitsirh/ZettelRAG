@@ -4,7 +4,7 @@
 2025-12-17 07:11:34,777 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
 2025-12-17 07:13:10,620 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
 2025-12-17 07:13:54,463 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
-2025-12-17 07:26:21,484 | INFO | Query recibida | question='hasta ma�ana...' | mode=consulta | temperature=0.2
+2025-12-17 07:26:21,484 | INFO | Query recibida | question='hasta mañana...' | mode=consulta | temperature=0.2
 2025-12-17 07:26:21,485 | INFO | Ejecutando pipeline...
 2025-12-17 07:26:22,036 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
 2025-12-17 07:26:22,581 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
@@ -16,11 +16,70 @@
 2025-12-18 23:04:29,660 | INFO | Pipeline completado exitosamente
 2025-12-18 23:04:46,117 | INFO | Health check ejecutado OK
 2025-12-18 23:06:45,344 | INFO | Query recibida | question='...' | mode=consulta | temperature=0.2
-2025-12-18 23:06:45,344 | WARNING | Query rechazada: pregunta vac�a
+2025-12-18 23:06:45,344 | WARNING | Query rechazada: pregunta vacía
 2025-12-18 23:07:12,991 | INFO | Query recibida | question='...' | mode=consulta | temperature=0.2
-2025-12-18 23:07:12,992 | WARNING | Query rechazada: pregunta vac�a
-2025-12-18 23:08:12,231 | INFO | Query recibida | question='h�blame de alg�n art�culo en el zettelkasten...' | mode=autor | temperature=0.45
+2025-12-18 23:07:12,992 | WARNING | Query rechazada: pregunta vacía
+2025-12-18 23:08:12,231 | INFO | Query recibida | question='háblame de algún artículo en el zettelkasten...' | mode=autor | temperature=0.45
 2025-12-18 23:08:12,231 | INFO | Ejecutando pipeline...
 2025-12-18 23:08:12,740 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
 2025-12-18 23:09:37,147 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
 2025-12-18 23:09:37,148 | INFO | Pipeline completado exitosamente
+2025-12-18 23:19:53,863 | INFO | Query recibida | question='cómo puedo realizar publicación de contenido?...' | mode=consulta | temperature=0.2
+2025-12-18 23:19:53,863 | INFO | Ejecutando pipeline...
+2025-12-18 23:21:53,494 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:22:01,413 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:22:01,414 | INFO | Pipeline completado exitosamente
+2025-12-18 23:22:08,684 | INFO | Query recibida | question='gracias...' | mode=consulta | temperature=0.2
+2025-12-18 23:22:08,684 | INFO | Ejecutando pipeline...
+2025-12-18 23:22:10,162 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:22:11,911 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:22:11,913 | INFO | Pipeline completado exitosamente
+2025-12-18 23:22:30,861 | INFO | Query recibida | question='háblame de técnicas de escritura...' | mode=consulta | temperature=0.2
+2025-12-18 23:22:30,861 | INFO | Ejecutando pipeline...
+2025-12-18 23:23:45,628 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:24:56,995 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:24:56,997 | INFO | Pipeline completado exitosamente
+2025-12-18 23:49:46,242 | INFO | Health check ejecutado OK
+2025-12-18 23:51:12,586 | INFO | Query recibida | question='ideas sobre conocimiento y escritura...' | mode=consulta | temperature=0.2
+2025-12-18 23:51:12,586 | INFO | Ejecutando pipeline...
+2025-12-18 23:52:16,677 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:52:23,179 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:52:23,181 | INFO | Pipeline completado exitosamente
+2025-12-18 23:52:55,548 | INFO | Query recibida | question='gracias...' | mode=consulta | temperature=0.2
+2025-12-18 23:52:55,548 | INFO | Ejecutando pipeline...
+2025-12-18 23:55:00,113 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:55:08,283 | INFO | Query recibida | question='gracias...' | mode=consulta | temperature=0.2
+2025-12-18 23:55:08,283 | INFO | Ejecutando pipeline...
+2025-12-18 23:55:18,457 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:55:18,459 | INFO | Pipeline completado exitosamente
+2025-12-18 23:57:52,816 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:59:02,921 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-18 23:59:02,923 | INFO | Pipeline completado exitosamente
+2025-12-19 00:25:56,098 | INFO | Health check ejecutado OK
+2025-12-19 00:26:03,757 | INFO | Query recibida | question='ideas sobre conocimiento y escritura...' | mode=consulta | temperature=0.2
+2025-12-19 00:26:03,757 | INFO | Ejecutando pipeline...
+2025-12-19 00:27:18,755 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:28:28,028 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:28:28,030 | INFO | Pipeline completado exitosamente
+2025-12-19 00:30:08,295 | INFO | Query recibida | question='...' | mode=consulta | temperature=0.2
+2025-12-19 00:30:08,295 | WARNING | Query rechazada: pregunta vacía
+2025-12-19 00:30:20,323 | INFO | Query recibida | question='hasta luego...' | mode=consulta | temperature=0.2
+2025-12-19 00:30:20,323 | INFO | Ejecutando pipeline...
+2025-12-19 00:30:23,686 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:30:33,038 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:30:33,040 | INFO | Pipeline completado exitosamente
+2025-12-19 00:30:57,051 | INFO | Query recibida | question='adiós...' | mode=consulta | temperature=0.2
+2025-12-19 00:30:57,051 | INFO | Ejecutando pipeline...
+2025-12-19 00:31:10,348 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:31:10,852 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:31:10,854 | INFO | Pipeline completado exitosamente
+2025-12-19 00:32:40,993 | INFO | Query recibida | question='adiós...' | mode=consulta | temperature=1.0
+2025-12-19 00:32:40,993 | INFO | Ejecutando pipeline...
+2025-12-19 00:32:41,611 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:32:47,758 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:32:47,760 | INFO | Pipeline completado exitosamente
+2025-12-19 00:33:11,780 | INFO | Query recibida | question='ideas sobre publicaciones...' | mode=consulta | temperature=1.0
+2025-12-19 00:33:11,780 | INFO | Ejecutando pipeline...
+2025-12-19 00:33:12,241 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:33:32,721 | INFO | HTTP Request: POST https://api.cohere.com/v2/chat "HTTP/1.1 200 OK"
+2025-12-19 00:33:32,723 | INFO | Pipeline completado exitosamente
