@@ -39,7 +39,7 @@ from sentence_transformers import SentenceTransformer
 
 load_dotenv()
 
-VAULT_PATH = r"C:\ruta\al\directorio\louis"
+VAULT_PATH = r"C:\ruta\al\directorio\rosie"
 
 CHROMA_PATH = r"C:\ruta\al\directorio\ZettelRAG\vectorstore"
 
