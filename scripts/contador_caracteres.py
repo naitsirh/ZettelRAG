@@ -19,6 +19,6 @@ def contar_caracteres_md(ruta_base):
 
 # Uso
 #directorio = "ruta/al/directorio"
-directorio = "C:/ruta/al/directorio/louis"
+directorio = "C:/ruta/al/directorio/rosie"
 total = contar_caracteres_md(directorio)
 print(f"Total de caracteres en archivos .md: {total}")
